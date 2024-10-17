@@ -1,51 +1,29 @@
-I used /etc/profile for permanent store environmental variables working after restart
-
-
-
-Selinux file config => /etc/sysconfig/selinux          
-Firewall:
-sudo firewall-cmd --permanent --add-port=514/udp
-sudo firewall-cmd --permanent --add-port=514/tcp
-sudo firewall-cmd --reload
-1- Elastic Search
-
-a. The problem that lasted for about 2 days or more was in the certificate I was getting this error:
-
-after installing elasticsearch on centos 9 i got this error when visiting this link: https://localhost:9200
-
-
-
-{ "error" : { "root_cause" : [ { "type" : "status_exception", "reason" : "Cluster state has not been recovered yet, cannot write to the [null] index" } ], "type" : "authentication_processing_error", "reason" : "failed to promote the auto-configured elastic password hash", "caused_by" : { "type" : "status_exception", "reason" : "Cluster state has not been recovered yet, cannot write to the [null] index" } }, "status" : 503 } 
-b. The solution was changing this parameter cluster.initial_master_nodes  from localhost to localhost.localdomain
-
-
-
-cluster.initial_master_nodes: ["localhost.localdomain"]
-c. 
-
-
-
-sudo -E /usr/share/logstash/bin/logstash-keystore --path.settings /etc/logstash create
-link: Secrets keystore for secure settings | Logstash Reference [8.15] | Elastic
-
-2- Kibana
-
-a. The problem was when writing token to connect to elasticsearch it was refuse or get error or connect to an old IP that the server was taken at the first run
-Error:
-
-
-
-{"service":{"node":{"roles":["background_tasks","ui"]}},"ecs":{"version":"8.11.0"},"@timestamp":"2024-08-22T12:27:10.910+03:00","message":"Failed to authenticate \"enroll-process-token-1724318822534\" token to host \"https://10.0.7.6:9200\": Hostname/IP does not match certificate's altnames: IP: 10.0.7.6 is not in the cert's list: ::1, 127.0.0.1, 192.168.145.135, fe80::20c:29ff:fe96:edb4.","log":{"level":"ERROR","logger":"plugins.interactiveSetup.elasticsearch"},"process":{"pid":34587,"uptime":1092.41374744},"trace":{"id":"21607abec9b53b1130023016c3809480"},"transaction":{"id":"64a03452c2dbc8ce"}}
-Solution:
-
-adding this parameter to elasticsearch.yml file network.publish_host: 127.0.0.1 and it
-
-must work
-
-Open image-20240901-085949.png
-image-20240901-085949.png
-But this not working for me so I configured it manually
-
-Open image-20240901-090032.png
-image-20240901-090032.png
-b. Windlogbeat: Winlogbeat quick start: installation and configuration | Winlogbeat Reference [8.15] | Elastic
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Home Page</h2>
+        <p>This is the main landing page of your portfolio.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+</body>
+</html>
