@@ -5,9 +5,6 @@ categories: [problems]
 tags: [siem problems]
 ---
 
-### `problems-elk.md`
-
-
 # Problems I Faced in Installing ELK Stack on CentOS 9
 
 ## General Configurations
