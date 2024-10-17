@@ -5,9 +5,6 @@ body {
     background-color: #f4f4f4;
 }
 
-#projects a {
-    color: #333;
-}
 
 header {
     background-color: #333;
@@ -33,6 +30,10 @@ nav ul li a {
 
 section {
     padding: 20px;
+}
+
+#projects a {
+    color: #333;
 }
 
 footer {
