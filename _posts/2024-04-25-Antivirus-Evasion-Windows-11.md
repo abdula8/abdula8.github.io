@@ -16,7 +16,7 @@ Using Shellter, I got a reverse shell on Windows 11. Below are the steps I follo
    wine shellter.exe
    ```
 
-2. After Shellter opens, choose:
+2. After Shellter opens, choose: \
    ![Anti-Virus Evasion 01](assets/img/AV-Evasion/AV-Evasion-01.png)
 
    Write the path of the target executable program: \
