@@ -1,5 +1,6 @@
 ---
 title: "Session Manager Subsystem"
+lang: ar
 date: 2024-10-18 16:56:24 +0800
 categories: [Cyber Defense]
 tags: [windows]
