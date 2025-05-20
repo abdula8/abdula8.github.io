@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "About Me"
-permalink: /about/
+title: "whoami"
+permalink: /whoami/
 categories: [cv]
-tags: [cv]
+tags: [cv, whoami]
 ---
 
 # Abdullah Atef Eid
