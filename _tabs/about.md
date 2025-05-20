@@ -6,7 +6,11 @@ categories: [cv]
 tags: [cv, whoami]
 ---
 
-# Abdullah Atef Eid
+<p align="center">
+  <img src="/assets/img/we-are-everywhere.jpg" alt="Abouda" width="180" style="border-radius: 50%;" />
+</p>
+
+# /root/home/Abdallah.Atef.Eid
 
 **Email:** abdallah.atef.0x@gmail.com  
 **Phone:** +20 01099110793  
@@ -15,72 +19,23 @@ tags: [cv, whoami]
 
 ---
 
-## Objectives
+## About Me
 
-I aim to leverage my analytical and problem-solving skills to design, implement, and maintain robust IT systems, enhancing operational efficiency.
+I’m **Abdallah Atef Eid**, a cybersecurity engineer with a passion for building and defending secure infrastructures. I specialize in **SIEM deployment**, **threat detection**, **log analysis**, and securing **cloud and on-prem environments** through practical, real-world solutions.
 
----
+My journey didn’t begin with a specific degree in cybersecurity—I earned my **Bachelor’s in Computer Science from Benha University**, and my path evolved from **system administration to DevOps to defensive security**. Over time, I’ve worked with technologies ranging from **OSSIM, ELK Stack, and Kaspersky Security Center**, to **Terraform, GitLab CI/CD, and Kubernetes**—bridging the gap between IT operations and security.
 
-## Professional Experience
-
-### Infrastructure Engineer, AlShahin, Sheraton, EG (07/2024 - Present)
-- Installed and configured log server and SIEM solution (ELK Stack).
-- Configured and monitored firewalls.
-- Conducted penetration testing of the company website for known vulnerabilities (SQLI, XSS) and patched issues.
-- Managed Kaspersky Security Center (KSC) for Anti-Virus and endpoint device control.
-
-### DevOps (Internship), Fawry, EG (10/2023 - 12/2023)
-- Managed Docker containers using Kubernetes; automated systems with Jenkins.
-- Automated Odoo project on AWS using GitLab pipelines.
-- Developed infrastructure using Terraform (VPC, EC2, SGs).
-
-### IT Officer, SUEZ, EG (06/2022 - 09/2023)
-- Installed and configured SIEM solution (OSSIM AlienVault), detecting brute-force attacks.
-- Set up AD, DHCP, and log servers.
-- Used Linux tools like grep and crontab for USB device detection on the network.
-- Provided technical support for Windows and Linux systems.
-- Monitored traffic using Wireshark and Nmap, managed Kaspersky Security Center.
+I document my work, share what I learn, and continuously seek to grow through hands-on projects and community collaboration. I believe that **security is not just a job—it’s a responsibility**, and I aim to contribute to safer digital environments for teams and individuals alike.
 
 ---
 
-## Projects
+## Highlights
 
-### Network Infrastructure Project (2021)
-- Connected multiple buildings and remote sites.
-- Implemented VLANs, VRRP, GLBP, and routing protocols (EIGRP, OSPF, RIPv2).
-- Managed traffic using firewalls and STP.
-
-### Launching Odoo Project on AWS (2023)
-- Automated deployment using GitLab Pipeline.
-- Created infrastructure using Terraform.
-- Launched project with RDS and EC2 instances.
+- 🛡️ Built a local **SOC environment** from the ground up, integrating SIEM, firewalls, endpoint protection, and alerting systems.
+- 🔍 Performed regular **vulnerability assessments** and **web app pentests** (e.g., SQLi, XSS) for corporate environments.
+- ☁️ Automated infrastructure deployment and secure application delivery using **Terraform on AWS**, integrated with **CI/CD pipelines**.
+- 🎯 Currently preparing for **OSCP**, and completed several hands-on labs and training in **threat hunting**, **cloud security**, and **network defense**.
 
 ---
 
-## Education
-
-**Bachelor of Computer Science**, Good  
-University of Benha, Benha, EG (2017-2021)
-
-Relevant Courses: Cryptography, Computer and Network Security, Computer System Architecture.
-
----
-
-## Online Courses & Certifications
-
-- **OSCP Preparation Course** (2024) - Nakerah Network
-- **ELK Stack** (2024) - Try Hack Me
-- **AWS Solution Architect Associate** (2023) - DolphenED
-- **CEH Fundamentals** (2022) - Nakerah Network
-- **MCSA: Windows Server Administration** (2021) - T-Shoot
-- **CCNA Routing, Switching, and Security** (2020) - DebugZ
-- **Linux Administration Essentials** (2019) - Ministry of Communication
-
----
-
-## Skills
-
-- **Technical Skills:** Penetration Testing, Network Troubleshooting, SoC Analyst L1, Network Design, OpenVAS, Backup, DevOps, Docker, Kubernetes, Terraform, GitLab.
-- **Programming Languages:** Python, Ruby, Bash Scripting, PHP.
-- **Soft Skills:** Presentation, Planning, Teamwork, Active Listening, Multi-tasking, Adaptability, Analytical Thinking.
-
+## Always happy to connect, share knowledge, and learn from others in the cybersecurity community.
