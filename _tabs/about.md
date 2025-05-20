@@ -7,10 +7,12 @@ tags: [cv, whoami]
 image: /assets/img/we-are-everywhere.jpg
 ---
 
+<!-- <p align="center">
+  <img src="/assets/img/we-are-everywhere.jpg" alt="Abouda" width="180" style="border-radius: 50%;" />
+</p> -->
 <div style="text-align: center;">
-  <img src="/assets/img/abdallah.jpg" alt="Abdallah Atef Eid" style="width: 180px; border-radius: 50%; margin-bottom: 20px;" />
+  <img src="/assets/img/we-are-everywhere.jpg" alt="Abouda" style="width: 180px; border-radius: 50%; margin-bottom: 20px;" />
 </div>
-
 # /root/home/Abdallah.Atef.Eid
 
 **Email:** abdallah.atef.0x@gmail.com  
