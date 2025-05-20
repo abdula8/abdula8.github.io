@@ -22,7 +22,7 @@ image: /assets/img/we-are-everywhere.jpg
 
 ---
 
-## About Me
+## whoami
 
 I’m **Abdallah Atef Eid**, a cybersecurity engineer with a passion for building and defending secure infrastructures. I specialize in **SIEM deployment**, **threat detection**, **log analysis**, and securing **cloud and on-prem environments** through practical, real-world solutions.
 
