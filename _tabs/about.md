@@ -17,7 +17,7 @@ image: /assets/img/we-are-everywhere.jpg
 
 **Email:** abdallah.atef.0x@gmail.com  
 **Phone:** +20 01099110793  
-**Location:** Benha, EG  
+**Location:** Cairo, EG  
 [LinkedIn](https://www.linkedin.com/in/abdallahatef) | [GitHub](https://github.com/abdula8) | [X (formerly Twitter)](https://x.com/0xAbdalla)
 
 ---
