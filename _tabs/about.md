@@ -4,6 +4,7 @@ title: "whoami"
 permalink: /whoami/
 categories: [cv]
 tags: [cv, whoami]
+image: /assets/img/we-are-everywhere.jpg
 ---
 
 <p align="center">
