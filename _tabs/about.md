@@ -1,44 +1,35 @@
 ---
 layout: page
-title: "whoami"
+title: Who Am I
 permalink: /whoami/
-categories: [cv]
-tags: [cv, whoami]
-image: /assets/img/we-are-everywhere.jpg
 ---
 
-<!-- <p align="center">
-  <img src="/assets/img/we-are-everywhere.jpg" alt="Abouda" width="180" style="border-radius: 50%;" />
-</p> -->
-<div style="text-align: center;">
-  <img src="/assets/img/we-are-everywhere.jpg" alt="Abouda" style="width: 180px; border-radius: 50%; margin-bottom: 20px;" />
-</div>
-# /root/home/Abdallah.Atef.Eid
+### Salam, I'm Abdullah Atef 👋
 
-**Email:** abdallah.atef.0x@gmail.com  
-**Phone:** +20 01099110793  
-**Location:** Cairo, EG  
-[LinkedIn](https://www.linkedin.com/in/abdallahatef) | [GitHub](https://github.com/abdula8) | [X (formerly Twitter)](https://x.com/0xAbdalla)
+Results-driven **SOC Administrator, Network Security Specialist, and Communication Engineer** with hands-on experience in building, securing, and optimizing complex enterprise infrastructures from the ground up. Operating as a single-person network and security lead, I possess a well-rounded technical foundation spanning SIEM/SOAR automation, zero-trust network architectures, multi-branch perimeter defense, and system administration.
 
 ---
 
-## whoami
+### 🛡️ Core Expertise & Technical Focus:
 
-I’m **Abdallah Atef Eid**, a cybersecurity engineer with a passion for building and defending secure infrastructures. I specialize in **SIEM deployment**, **threat detection**, **log analysis**, and securing **cloud and on-prem environments** through practical, real-world solutions.
-
-My journey didn’t begin with a specific degree in cybersecurity—I earned my **Bachelor’s in Computer Science from Benha University**, and my path evolved from **system administration to DevOps to defensive security**. Over time, I’ve worked with technologies ranging from **OSSIM, ELK Stack, and Kaspersky Security Center**, to **Terraform, GitLab CI/CD, and Kubernetes**—bridging the gap between IT operations and security.
-
-I document my work, share what I learn, and continuously seek to grow through hands-on projects and community collaboration. I believe that **security is not just a job—it’s a responsibility**, and I aim to contribute to safer digital environments for teams and individuals alike.
-
----
-
-## Highlights
-
-- 🛡️ Built a local **SOC environment** from the ground up, integrating SIEM, firewalls, endpoint protection, and alerting systems.
-- 🔍 Performed regular **vulnerability assessments** and **web app pentests** (e.g., SQLi, XSS) for corporate environments.
-- ☁️ Automated infrastructure deployment and secure application delivery using **Terraform on AWS**, integrated with **CI/CD pipelines**.
-- 🎯 Currently preparing for **OSCP**, and completed several hands-on labs and training in **threat hunting**, **cloud security**, and **network defense**.
+* **Security Operations & Threat Defense:** Architecting self-hosted ELK Stack SIEM and n8n automated detection pipelines, rule writing, threat hunting, and incident neutralization.
+* **Network Infrastructure & Firewalls:** Designing and maintaining zero-trust Active Directory models, DMZ architectures, and deploying FortiGate & Forcepoint firewalls across multi-branch enterprise environments.
+* **Systems & Endpoint Administration:** Executing zero-downtime migrations (e.g., Kaspersky Cloud Console), dual-boot Linux/Windows administration, and endpoint security optimization.
+* **Engineering & Continuous Learning:** Communication Engineering background, currently exploring Low-level programming (C), Windows Internals, and PE file analysis to build a solid foundation in security research.
 
 ---
 
-## Always happy to connect, share knowledge, and learn from others in the cybersecurity community.
+### 🎓 Certifications & Education:
+
+* **B.Sc. in Communication Engineering** – Benha University
+* **Certified Linux Administration Essentials** – Ministry of Communications & IT (MCIT)
+* **Continuous Advanced Training:** SANS SEC450 (Blue Team Fundamentals), SANS 401, AWS Solutions Architect Associate, CCNA, MCSA, and OSCP prep.
+
+---
+
+### 🌐 Connect with Me:
+
+* **GitHub:** [github.com/abdula8](https://github.com/abdula8)
+* **LinkedIn:** [linkedin.com/in/abdallahatef](https://www.linkedin.com/in/abdallahatef)
+* **Twitter / X:** [twitter.com/0xAbdalla](https://twitter.com/0xAbdalla)
+* **Email:** abdallah.ate.0x@gmail.com
